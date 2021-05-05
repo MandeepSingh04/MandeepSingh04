@@ -1,5 +1,5 @@
 # Hi there! I'm [Mandeep Singh](https://github.com/MandeepSingh04) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
-<img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/>
+<img align="right" src="https://github.com/Giphy/GiphyAPI/blob/master/api_giphy_header.gif" width="40%"/>
 
 - 🔭 I’m currently working on a Django Project and doing competitive programming.
 - ✍🏻 I’m an Executive at CodeChef NITRR Chapter, and [Entrepreneurship Cell NIT Raipur](https://ecell.nitrr.ac.in/)
