@@ -9,3 +9,12 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ... -->
+
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MandeepSingh04&count_private=true&include_all_commits=true&theme=gruvbox&show_icons=true)](https://github.com/MandeepSingh04/github-readme-stats)<br> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MandeepSingh04&layout=compact)](https://github.com/MandeepSingh04/github-readme-stats)
+
+#
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MandeepSingh04/count.svg" />
+</p>
