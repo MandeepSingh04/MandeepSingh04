@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a Django Project and doing competitive programming.
 - ✍🏻 I’m an Executive at CodeChef NITRR Chapter, and [Entrepreneurship Cell NIT Raipur](https://ecell.nitrr.ac.in/)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/His/Him
 <!--
 - 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ...
