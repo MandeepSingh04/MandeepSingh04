@@ -2,7 +2,7 @@
 <img align="right" src="https://github.com/Giphy/GiphyAPI/blob/master/api_giphy_header.gif" width="40%"/>
 
 - 🔭 I’m currently working on a Django Project.
-- ✍🏻 I’m an Executive at CodeChef NITRR Chapter, [Entrepreneurship Cell NIT Raipur](https://ecell.nitrr.ac.in/), and Click Club NITRR
+- ✍🏻 I’m Manager at [Entrepreneurship Cell NIT Raipur](https://ecell.nitrr.ac.in/), and Coordinator at Click Club NITRR
 - 😄 Pronouns: He/His/Him
 <!--
 - 🌱 I’m currently learning ... 
