@@ -1,4 +1,4 @@
-# Hi there! I'm [Mandeep Singh](https://github.com/MandeepSingh04) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hi there! I'm [Mandeep Singh](https://github.com/MandeepSingh04) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" height="30px">
 <img align="right" src="https://github.com/Giphy/GiphyAPI/blob/master/api_giphy_header.gif" width="40%"/>
 
 - 🔭 I’m currently working on a Django Project.
