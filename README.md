@@ -1,8 +1,8 @@
 # Hi there! I'm [Mandeep Singh](https://github.com/MandeepSingh04) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" height="30px">
 <img align="right" src="https://github.com/Giphy/GiphyAPI/blob/master/api_giphy_header.gif" width="40%"/>
 
+- ✍🏻 I’m a competitive programmer and Fullstack web developer
 - 🔭 I’m currently working on a Django Project.
-- ✍🏻 I’m Web development Head Coordinator at [Click Club NIT Raipur](https://clickclub.nitrr.ac.in/) and I have been a Coordinator at Turing Club of Programmers and at Entrepreneurship Cell NIT Raipur
 - 😄 Pronouns: He/His/Him
 
 #
